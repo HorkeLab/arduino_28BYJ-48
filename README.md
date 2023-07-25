@@ -3,8 +3,8 @@ This repository contains all files necessary to control 28BYJ-48 type stepper mo
 
 The steppers can be controller using simple terminal commands, as detailed in the documentation. We also provide a LabView UI (including compiled executable) to control two motors, for example to control the tip/tilt of a kinematic mirror mount.
 
-We use this motor control for out motorized optical components:
--motorized kinematic mirror mount (KM100) - https://github.com/HorkeLab/motorized_kinematic_mount
+We use this motor control for our motorized optical components:
+- motorized kinematic mirror mount (KM100) - https://github.com/HorkeLab/motorized_kinematic_mount
 
 # Folder structure
 
